@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_blogs"
+            android:icon="@drawable/ic_blogs"
+            android:title="Blogs" />
+        <item
+            android:id="@+id/nav_videos"
+            android:icon="@drawable/ic_videos"
+            android:title="Videos" />
+        <item
+            android:id="@+id/nav_counsellor"
+            android:icon="@drawable/ic_counsellor"
+            android:title="Counsellor" />
+        <item
+            android:id="@+id/nav_chat"
+            android:icon="@drawable/ic_chat"
+            android:title="Chat" />
+    </group>
+
+</menu>

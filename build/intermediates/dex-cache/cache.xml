@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\wmudi\.android\build-cache\00455a0836c8b5c24c464eff78e2593f866246b6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="32054268e6c9fdff0c9c5deafafd0bd105120fb6">
+        <dex dex="C:\Users\wmudi\AndroidStudioProjects\CounsellingAdmin\app\build\intermediates\pre-dexed\debug\classes_5345b19a71f7c46a0436b9c24a5589400375f675.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\wmudi\.android\build-cache\df9e2953a952d9cb1a38895e1118a483d216591f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e00b71dcf2fbecaf59b0d487d11839522dd7863d">
+        <dex dex="C:\Users\wmudi\AndroidStudioProjects\CounsellingAdmin\app\build\intermediates\pre-dexed\debug\classes_d05680eb4a6948c86db191588aedbb52953d9221.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\wmudi\.android\build-cache\6ca6628143956f219259c70d1ee3402cc45f229b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d4acacbab67243d9eb026ea759aefd401d070f3e">
+        <dex dex="C:\Users\wmudi\AndroidStudioProjects\CounsellingAdmin\app\build\intermediates\pre-dexed\debug\classes_3f2bfeb7b74832043d48e485df69d923c3a01555.jar" />
+    </item>
+
+</items>
